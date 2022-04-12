@@ -170,7 +170,7 @@ contract ERC20Basic {
 
 }
 
-contract ERC20 is ERC20Basic {
+contract ATGK is ERC20Basic {
 
   function allowance(address owner, address spender) public view returns (uint256);
 
